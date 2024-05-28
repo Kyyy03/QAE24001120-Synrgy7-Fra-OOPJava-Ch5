@@ -1,2 +1,2 @@
-﻿# F-QAE24001120-synrgy7-oopjava-ch5
+QAE24001120-synrgy7-fra-oopjava-ch5
 
